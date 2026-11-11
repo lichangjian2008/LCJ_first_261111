@@ -22,3 +22,8 @@ git push                   # 推送到 GitHub
 git pull                   # 拉取远程更新
 git log --oneline -5       # 最近 5 条提交
 ```
+
+## 学习记录
+
+- 2026-11-11：完成 Git / GitHub 配置，跑通第一次 push（就是本文件）。
+  每一次 `git commit` 都相当于给项目拍一张“存档照”，`git push` 则是把照片传到云端。
